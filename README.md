@@ -1,6 +1,6 @@
 README:
 
-[strona www](skav3n.github.io/app)
+[strona www](http://skav3n.github.io/app)
 
 Strona www, przedstawiająca konsolę windows, w której można wpisać kilka komend.
 
