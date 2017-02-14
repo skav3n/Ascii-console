@@ -1,7 +1,5 @@
 README:
 
-[strona www](https://skav3n.github.io/app)
-
 Strona www, przedstawiająca konsolę windows, w której można wpisać kilka komend.
 
 Uruchomienie wersji deweloperskiej:
